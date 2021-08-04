@@ -1,0 +1,11 @@
+h1{color:#e22bba}
+img{width: 400px;}
+#thirdDiv {
+    height: 650px;
+    width: 500px;
+    background-color: rgb(223, 187, 205);
+    padding: 50px;
+    border: rgb(252, 135, 203) 200px; 
+    }
+#spanid {font-size: 18px;
+         margin: 50px;}
